@@ -452,7 +452,7 @@ input[type="date" i] {
   top: 0;
   left: 0;
   z-index: 100;
-  border-top: 5px solid #ec1d25;
+  border-top: 5px solid #FF8000;
 }
 
 .wrap_header {
@@ -536,8 +536,8 @@ input[type="date" i] {
 }
 
 .main_menu > li > a {
-  font-family: bold;
-  font-weight: 400;
+  font-family: poppins;
+  font-weight: 600;
   font-size: 14px;
   text-transform: uppercase;
   color: white;
@@ -546,6 +546,8 @@ input[type="date" i] {
 
 .header-fixed .main_menu > li > a {
   color: black;
+  font-family:poppins;
+  font-weight:400px;
 }
 
 .main_menu > li:hover > a {
