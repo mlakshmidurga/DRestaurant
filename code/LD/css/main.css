@@ -1395,6 +1395,7 @@ body {padding-right: 0px !important;}
   background-repeat: no-repeat;
   background-position: center 0;
   background-size: cover;
+  opacity:0.8;
 }
 
 @media (max-width: 576px) {

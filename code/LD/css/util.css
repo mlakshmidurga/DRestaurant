@@ -2973,7 +2973,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 .tit3 {
 	font-family: Poppins;
 	font-weight: 700;
-	font-size: 50px;
+	font-size: 30px;
 	line-height: 1.2;
 	color: #222222;
 	text-transform: uppercase;
@@ -3539,7 +3539,7 @@ SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE
 }
 
 .size34 {
-	min-height: 320px;
+	min-height: 100px;
 }
 
 .size35 {
