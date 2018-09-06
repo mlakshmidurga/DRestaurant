@@ -55,6 +55,9 @@
 /*[ RESTYLE TAG ]
 ///////////////////////////////////////////////////////////
 */
+
+
+
 * {
 	margin: 0px; 
 	padding: 0px; 
@@ -788,6 +791,7 @@ input[type="date" i] {
 }
 .item-slick1 {
   height: 100vh;
+
 }
 
 .arrow-slick1, .arrow-slick2, .arrow-slick3 {
