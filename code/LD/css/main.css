@@ -1,4 +1,16 @@
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+/ IE10+ CSS styles go here /
+}
 
+
+/ Internet Explorer 11+ /
+:-ms-fullscreen, :root .ie11up { property:value; }
+
+/ Internet Explorer 10+ /
+:-ms-lang(x), .ie10up { property:value; }
+
+/ Internet Explorer 10 (only) /
+_:-ms-lang(x), .ie10 { property:value\9; }
 /*[ FONT ]
 ///////////////////////////////////////////////////////////
 */
